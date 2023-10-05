@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
+title: Amanda Russell
+description: CV - Amanda Russell
 plugins:
 - jekyll-remote-theme
